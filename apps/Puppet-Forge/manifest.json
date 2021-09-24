@@ -1,14 +1,14 @@
 {
-  "name": "Poetry",
-  "description": "Access Poetry",
+  "name": "Puppet Forge",
+  "description": "Puppet Forge",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://python-poetry.org"
+      "https://forge.puppet.com"
     ],
     "launch": {
-      "web_url": "https://python-poetry.org"
+      "web_url": "https://forge.puppet.com"
     }
   },
   "icons": {

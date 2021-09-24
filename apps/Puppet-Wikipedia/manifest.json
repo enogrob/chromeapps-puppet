@@ -1,14 +1,14 @@
 {
-  "name": "Python Wikipedia",
+  "name": "Puppet Wikipedia",
   "description": "Access Python Wikipedia",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://en.wikipedia.org/wiki/Python_(programming_language)"
+      "https://en.wikipedia.org/wiki/Puppet_(software)"
     ],
     "launch": {
-      "web_url":"https://en.wikipedia.org/wiki/Python_(programming_language)"
+      "web_url":"https://en.wikipedia.org/wiki/Puppet_(software)"
     }
   },
   "icons": {

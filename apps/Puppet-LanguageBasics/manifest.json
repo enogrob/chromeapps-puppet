@@ -1,0 +1,17 @@
+{
+  "name": "Language Basics",
+  "description": "Access Language Basics",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://puppet.com/learning-training/kits/puppet-language-basics"
+    ],
+    "launch": {
+      "web_url": "https://puppet.com/learning-training/kits/puppet-language-basics"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

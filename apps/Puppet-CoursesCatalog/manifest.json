@@ -1,0 +1,17 @@
+{
+  "name": "Course Catalog",
+  "description": "Access Course Catalog",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://learn.puppet.com/course-catalog"
+    ],
+    "launch": {
+      "web_url": "https://learn.puppet.com/course-catalog"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

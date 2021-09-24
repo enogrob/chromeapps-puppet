@@ -1,0 +1,17 @@
+{
+  "name": "Knowlege Base",
+  "description": "Access Knowledge Base",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://support.puppet.com/hc/en-us"
+    ],
+    "launch": {
+      "web_url": "https://support.puppet.com/hc/en-us"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

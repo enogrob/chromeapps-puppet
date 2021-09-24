@@ -1,14 +1,14 @@
 {
-  "name": "Full Stack Python",
-  "description": "Access Full Stack Python",
+  "name": "Puppet Blog",
+  "description": "Access Puppet Blog",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://www.fullstackpython.com"
+      "https://puppet.com/blog"
     ],
     "launch": {
-      "web_url": "https://www.fullstackpython.com"
+      "web_url": "https://puppet.com/blog"
     }
   },
   "icons": {

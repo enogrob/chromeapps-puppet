@@ -1,14 +1,14 @@
 {
-  "name": "Django",
-  "description": "Access Django",
+  "name": "Puppet Channel",
+  "description": "Access Puppet Channel",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://www.djangoproject.com"
+      "https://www.youtube.com/user/PuppetLabsInc"
     ],
     "launch": {
-      "web_url": "https://www.djangoproject.com"
+      "web_url": "https://www.youtube.com/user/PuppetLabsInc"
     }
   },
   "icons": {

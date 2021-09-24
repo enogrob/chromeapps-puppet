@@ -1,0 +1,17 @@
+{
+  "name": "Puppet Events",
+  "description": "Access Puppet Events",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://events.puppet.com/?_ga=2.101080961.1238002656.1632480892-1566725361.1626823869"
+    ],
+    "launch": {
+      "web_url":"https://events.puppet.com/?_ga=2.101080961.1238002656.1632480892-1566725361.1626823869"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

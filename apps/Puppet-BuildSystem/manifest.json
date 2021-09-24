@@ -1,14 +1,14 @@
 {
-  "name": "Tox",
-  "description": "Access Tox",
+  "name": "Build System",
+  "description": "Access Build System",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://tox.readthedocs.io/en/latest"
+      "https://cbs.centos.org/koji"
     ],
     "launch": {
-      "web_url": "https://tox.readthedocs.io/en/latest"
+      "web_url": "https://cbs.centos.org/koji"
     }
   },
   "icons": {

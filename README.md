@@ -28,10 +28,24 @@ drwxr-xr-x   17 enogrob  staff    578 Sep 24 06:33 resources
 
 $ tree -L 1 apps/
 apps
-:
+├── Puppet-API
+├── Puppet-Awesome
+├── Puppet-Blog
+├── Puppet-BuildSystem
+├── Puppet-Compass
+├── Puppet-CoursesCatalog
+├── Puppet-Events
+├── Puppet-Forge
 ├── Puppet-Homepage
-:
-└── Python-Wikipedia
+├── Puppet-KnowledgeBase
+├── Puppet-LanguageBasics
+├── Puppet-OpenSource
+├── Puppet-RubyGems
+├── Puppet-RubyRepl
+├── Puppet-Wikipedia
+└── Puppet-YouTube
+
+16 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:

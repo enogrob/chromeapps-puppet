@@ -1,14 +1,14 @@
 {
-  "name": "Python Awesome",
-  "description": "Access Python Awesome",
+  "name": "Puppet Awesome",
+  "description": "Access Puppet Awesome",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://python.libhunt.com"
+      "https://github.com/rnelson0/awesome-puppet"
     ],
     "launch": {
-      "web_url": "https://python.libhunt.com"
+      "web_url": "https://github.com/rnelson0/awesome-puppet"
     }
   },
   "icons": {

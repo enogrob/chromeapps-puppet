@@ -1,14 +1,14 @@
 {
-  "name": "PyCon",
-  "description": "Access PyCon",
+  "name": "RubyGems",
+  "description": "Access RubyGems",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://pycon.org"
+      "http://rubygems.org/"
     ],
     "launch": {
-      "web_url":"https://pycon.org"
+      "web_url":"http://rubygems.org/"
     }
   },
   "icons": {
