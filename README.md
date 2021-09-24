@@ -63,4 +63,4 @@ Or just drag and drop the app folder on the [Extensions page](chrome://extension
 
 ![Chrome screenshot](images/chrome_screenshot1.png)
 
-Pressione the Chrome "Apps" button and them look for the ones you have inserted. You can drag as you want in order to put then in desired order.
+Pressione the Chrome "Apps" button and then look for the ones you have inserted. You can drag as you want in order to put them in desired order.
