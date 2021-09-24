@@ -11,6 +11,7 @@ Open a terminal give the following command:
 
 ```bash
 $ git clone https://github.com/enogrob/chromeapps-puppet.git
+$ cd chromeapps-puppet
 ```
 
 As we can see a subdirectory is created for each Puppet app.
@@ -49,6 +50,10 @@ apps
 └── Puppet-YouTube
 
 17 directories, 0 files
+
+# in order to open Files in Linux to drag the App folders if wanted.
+$ cd Apps
+$ xdg-open .&
 ```
 
 ### 2. Open Chrome with the following url:
