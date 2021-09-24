@@ -1,6 +1,6 @@
 # Chrome Apps for Puppet
 
-Gather important references and shortcuts in form of Chrome Apps.
+Gather Puppet important references and shortcuts in form of Chrome Apps.
 
 ![Chrome Apps logo](images/chrome_apps.png)
 
