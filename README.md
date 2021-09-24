@@ -32,6 +32,7 @@ $ tree -L 1 apps/
 apps
 ├── Puppet-API
 ├── Puppet-Awesome
+├── Puppet-BashRepl
 ├── Puppet-Blog
 ├── Puppet-BuildSystem
 ├── Puppet-Compass
@@ -47,7 +48,7 @@ apps
 ├── Puppet-Wikipedia
 └── Puppet-YouTube
 
-16 directories, 0 files
+17 directories, 0 files
 ```
 
 ### 2. Open Chrome with the following url:
