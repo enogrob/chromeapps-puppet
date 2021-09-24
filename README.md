@@ -62,3 +62,5 @@ Or just drag and drop the app folder on the [Extensions page](chrome://extension
 ### 3. After load the Chrome Apps wanted for Puppet, Chrome will look like the screenshot below:
 
 ![Chrome screenshot](images/chrome_screenshot1.png)
+
+Pressione the Chrome "Apps" button and them look for the ones you have inserted. You can drag as you want in order to put then in desired order.
