@@ -1,5 +1,7 @@
 # Chrome Apps for Puppet
 
+Gather important references and shortcuts in form of Chrome Apps.
+
 ![Chrome Apps logo](images/chrome_apps.png)
 
 ## Installation
@@ -51,7 +53,7 @@ apps
 ### 2. Open Chrome with the following url:
 In order to load the `Chrome Apps` for Puppet, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `Puppet-Homepage`, and then repeat that for the wanted apps. Or just drag and drop the app folder on the [Extensions page](chrome://extensions).
 
-[chrome://extensions](chrome://extensions)
+![Chrome screenshot](images/chrome_screenshot1.png)
 
 ### 3. After load the Chrome Apps wanted for Puppet, Chrome will look like the screenshot below:
 
