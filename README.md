@@ -6,13 +6,14 @@ Gather Puppet important references and shortcuts in form of Chrome Apps.
 
 ## Installation
 
-### 1. Clone this repository and see its contents.
+### 1. Clone this repository or download and see its contents.
 Open a terminal give the following command:
 
 ```bash
 $ git clone https://github.com/enogrob/chromeapps-puppet.git
 $ cd chromeapps-puppet
 ```
+
 
 As we can see a subdirectory is created for each Puppet app.
 
@@ -56,6 +57,9 @@ $ cd apps
 $ xdg-open .&
 ```
 
+![Chrome screenshot](images/chrome_screenshot4.png)
+
+Unzip it and then go to the next step.
 ### 2. Open Chrome with the following url:
 In order to load the `Chrome Apps` for Puppet, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `Puppet-Homepage`, and then repeat that for the wanted apps. 
 
