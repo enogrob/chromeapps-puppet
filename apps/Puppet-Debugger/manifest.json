@@ -1,0 +1,17 @@
+{
+  "name": "Puppet Debugger",
+  "description": "Access Puppet Debugger",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.puppet-debugger.com"
+    ],
+    "launch": {
+      "web_url": "https://www.puppet-debugger.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
