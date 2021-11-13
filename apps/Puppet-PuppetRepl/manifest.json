@@ -1,0 +1,17 @@
+{
+  "name": "Puppet Repl",
+  "description": "Access Puppet Repl",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://demo.puppet-debugger.com"
+    ],
+    "launch": {
+      "web_url": "http://demo.puppet-debugger.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
