@@ -1,0 +1,17 @@
+{
+  "name": "Build System",
+  "description": "Access Build System",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://packages.debian.org/bullseye/allpackages"
+    ],
+    "launch": {
+      "web_url": "https://packages.debian.org/bullseye/allpackages"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
