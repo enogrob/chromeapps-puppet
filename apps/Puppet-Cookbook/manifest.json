@@ -1,0 +1,17 @@
+{
+  "name": "Cookbook",
+  "description": "Cookbook",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.puppetcookbook.com"
+    ],
+    "launch": {
+      "web_url": "https://www.puppetcookbook.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
